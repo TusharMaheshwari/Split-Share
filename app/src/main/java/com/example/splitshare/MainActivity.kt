@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             SplitShareTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "Shivansh Android",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
